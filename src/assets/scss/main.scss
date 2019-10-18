@@ -1,0 +1,17 @@
+@import "utils/reset";
+
+// Modules
+// @import "modules/my-module.scss";
+
+@import "modules/first_section";
+@import "modules/second_section";
+@import "modules/third_section";
+@import "modules/four_section";
+@import "modules/five_section";
+@import "modules/header";
+
+body {
+  overflow-x: hidden;
+}
+
+
